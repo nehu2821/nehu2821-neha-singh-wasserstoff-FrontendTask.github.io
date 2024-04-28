@@ -12,7 +12,7 @@ After the installation is complete, start the development server by running npm 
 Access the web app in your browser at http://localhost:3000.
 Video Demo of the Project: Watch Here
 
-Vercel Live Link: https://wasserstoff-frontend-task-umber.vercel.app/events
+Vercel Live Link: https://astrixx.vercel.app/home
 
 Approach to the Task: https://drive.google.com/file/d/1pLljvr2rhWNzReVIlQYn_8GwClIOCNOc/view?usp=sharing
 
