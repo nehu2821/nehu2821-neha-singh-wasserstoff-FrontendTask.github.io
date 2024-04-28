@@ -23,3 +23,8 @@ Started the project development process, focusing on maintaining adherence to th
 Implemented the required animations and slider functionality using the selected libraries.
 Tested the application thoroughly to ensure proper functionality and responsiveness.
 Deployed the web app on Vercel for easy access and sharing.
+
+Deploy on Vercel
+The easiest way to deploy your Next.js app is to use the Vercel Platform from the creators of Next.js.
+
+Check out our Next.js deployment documentation for more details.
