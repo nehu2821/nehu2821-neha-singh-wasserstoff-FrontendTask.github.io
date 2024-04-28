@@ -1,7 +1,7 @@
 ## Getting Started
 Title: ASTRIX Animated WebApp
 
-Technology Stack/Libraries Used: Next.js, Tailwind CSS, Framer Motion, React Slick
+Technology Stack/Libraries Used: Next.js, Tailwind CSS.
 
 Steps to Run/Build the Project:
 
