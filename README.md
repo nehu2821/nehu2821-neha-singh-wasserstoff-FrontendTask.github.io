@@ -14,7 +14,7 @@ Video Demo of the Project: Watch Here
 
 Vercel Live Link: https://astrixx.vercel.app/home
 
-Approach to the Task: https://drive.google.com/file/d/1pLljvr2rhWNzReVIlQYn_8GwClIOCNOc/view?usp=sharing
+Approach to the Task: https://drive.google.com/file/d/1_u5__WrUl19hJj0QhCKHftXX3o8R9AZM/view?usp=sharing
 
 Reviewed the provided PDF and Figma link to understand the project requirements and design.
 Identified the necessary libraries, such as Framer Motion and React Slick, to implement the animations and slider functionality.
