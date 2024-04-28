@@ -1,26 +1,25 @@
 ## Getting Started
+Title: ASTRIX Animated WebApp
 
-1. Title of the project
-2. Technology stack/libraries used
-3. Steps to run/build the project
-4. A public Video link (5-10 min) explaining demo of the project
-5. A vercel or any other public hosted link
-6. A paragraph explaining how you approached the task.
+Technology Stack/Libraries Used: Next.js, Tailwind CSS, Framer Motion, React Slick
 
-- Title: Develop a ASTRIX-Animated-WebApp.
+Steps to Run/Build the Project:
 
-- Technology Used: Nextjs, Tailwind
+Clone the project repository from GitHub.
+Navigate to the project directory in your terminal.
+Run the command npm install to install all the required packages.
+After the installation is complete, start the development server by running npm run dev.
+Access the web app in your browser at http://localhost:3000.
+Video Demo of the Project: Watch Here
 
-- Libraries Used : Framer-motion, REact-slick.
+Vercel Live Link: https://wasserstoff-animated-web-app.vercel.app/
 
-- Steps to run the Project:
-  First clone the Project
-  Do npm i to install the packages
-  To start the server run: npm run dev
+Approach to the Task: https://drive.google.com/file/d/1pLljvr2rhWNzReVIlQYn_8GwClIOCNOc/view?usp=sharing
 
-- Vedio Demo of the Project: "https://drive.google.com/file/d/1pLljvr2rhWNzReVIlQYn_8GwClIOCNOc/view?usp=sharing"
-
-- Vercel Live Link : "https://wasserstoff-animated-web-app.vercel.app/"
-
-- How I approached this task:
-  I began by reviewing the provided PDF to understand the assignment and its requirements. Following that, I accessed the Figma link to grasp what was needed for the project. Subsequently, I deliberated on the libraries necessary to implement these functionalities. After researching the libraries, I thought a structure in my mind regarding how to commence with this component and other related aspects. With this groundwork completed, I proceeded to start the project, adhering to this approach throughout the task.
+Reviewed the provided PDF and Figma link to understand the project requirements and design.
+Identified the necessary libraries, such as Framer Motion and React Slick, to implement the animations and slider functionality.
+Structured a plan in mind for implementing the components and features based on the project requirements.
+Started the project development process, focusing on maintaining adherence to the planned approach throughout the task.
+Implemented the required animations and slider functionality using the selected libraries.
+Tested the application thoroughly to ensure proper functionality and responsiveness.
+Deployed the web app on Vercel for easy access and sharing.
